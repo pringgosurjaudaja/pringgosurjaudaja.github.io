@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Méja Web Application](/sample_page)
+[Méja Web Application](/meja_page)
 <img src="images/meja_home.png?raw=true"/>
 
 ---
